@@ -33,11 +33,11 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 @import url("https://xcruxiex.github.io/themes/core/badges.css");
 @import url("https://xcruxiex.github.io/themes/core/custom-font.css");
 :root {
-  --backgroundColor01: #1e2731;
-  --backgroundColor02: #12171d;
-  --mainColor: #2275c9;
+  --backgroundColor01: #0e1216;
+  --backgroundColor02: #06080a;
+  --mainColor: #6599ce;
   --gradientColor01: #00F260;
-  --gradientColor02: #0575E6;
+  --gradientColor02: #59A1EA;
 
   /* Better Hljs */
   --backgroundCode: #1e2731;
